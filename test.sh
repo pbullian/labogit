@@ -1,4 +1,5 @@
 #!/bin/bash
+para revertir
 #cambio 1
 # feature
 var="UNSAM administracion GNU/linux"
