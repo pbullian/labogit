@@ -1,5 +1,6 @@
 #!/bin/bash
 #cambio 1
+# feature
 var="UNSAM administracion GNU/linux"
 aux=$var
 echo Hash de \"UNSAM administracion GNU/linux\":
